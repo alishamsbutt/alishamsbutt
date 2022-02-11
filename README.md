@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alishamsbutt
+- 👋 Hi, I’m Ali Shams @alishamsbutt
 - 👀 I’m interested in working on complex projects
 - 🌱 I’m currently learning html, css and Javascript
 - 💞️ I’m looking to collaborate on any kind of project where i can enhance my skills
